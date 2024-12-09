@@ -1,4 +1,4 @@
-### ⚠️ Special Note
+### ⚠️ Important Note
 
 > **IMPORTANT**  
 > The code with the name "Final.ipynb" is for final submission
