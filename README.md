@@ -1,3 +1,9 @@
+### ⚠️ Special Note
+
+> **IMPORTANT**  
+> The code with the name "Final.ipynb" is for final submission
+ 
+
 # **NYC Urban Analysis**
 
 This repository contains a comprehensive spatial analysis of New York City (NYC), focusing on land use, accessibility, infrastructure, and urban dynamics. Using geospatial data and Python-based visualization tools, the project examines patterns in transportation, building heights, parking density, traffic hotspots, and Points of Interest (POIs).
